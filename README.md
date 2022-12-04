@@ -14,6 +14,7 @@ Tasks :
 6.  Lasso
 
 Random Forest MSE :5.844642856924618
+
 Random Forest R2 Score :76.03049426308034
 
 
