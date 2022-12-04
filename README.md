@@ -22,6 +22,7 @@ Random Forest R2 Score :76.03049426308034
 # Approach for Semantic Textual Similarity :
 
 1. Sentence Encoding :
+
    Universal Sentence Encoder : The Universal Sentence Encoder encodes text into high dimensional vectors that can be used for text classification,            semantic similarity, clustering, and other natural language tasks. The pre-trained Universal Sentence Encoder is publicly available in Tensorflow-hub.
 
 
